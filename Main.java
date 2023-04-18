@@ -6,6 +6,7 @@ public class Main {
 	int z = 21;
     if (x > y) {
       System.out.println("x is greater than y");
+	  System.out.println("madhuri changes");
     }  
   }
 }
